@@ -57,7 +57,7 @@ Once cloned, we need to install all dependencies for every package of the Machin
 For every package in `shared`, run `npx yarn install`:
 
 ```shell
-$ cd shared/*
+$ cd shared/
 $ npx yarn install
 ```
 
